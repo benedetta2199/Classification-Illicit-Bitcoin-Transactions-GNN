@@ -66,3 +66,7 @@ The project doesn't contain some of the original file because they're over than 
 
 📜 **License:** MIT  
 📄 **Full Report:** [`docs/Blockchain.pdf`]
+
+
+## 🎓 Academic Context
+Academic Year **2024/2025** - University of Bologna
